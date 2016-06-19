@@ -1,0 +1,894 @@
+(None)
+Wooden Spike
+Iron Spike
+Silver Spike
+Golden Spike
+
+Geo Pebble
+Gravelerock
+Golden Fossil
+
+
+Looplet
+Gold Looplet
+Mobility Looplet
+Attack Looplet
+Defense Looplet
+Sp. Atk Looplet
+Sp. Def Looplet
+Healing Looplet
+Resilient Looplet
+Focus Looplet
+Nonstick Looplet
+Air Looplet
+Joy Looplet
+Water Looplet
+Persim Looplet
+Pecha Looplet
+Wakeful Looplet
+Warp Looplet
+Mist Looplet
+Sand Looplet
+Detect Looplet
+Deflect Looplet
+Weather Looplet
+Choice Looplet
+Fickle Looplet
+Lucky Looplet
+Cover Looplet
+Unity Looplet
+Nullify Looplet
+Explosive Looplet
+Prosper Looplet
+Excavation Looplet
+Alliance Looplet
+Speed Looplet
+Wildfire Looplet
+Tempest Looplet
+Radiance Looplet
+Time Looplet
+Darkness Looplet
+Sky Looplet
+Looplet
+Gold Looplet
+Mobility Looplet
+Attack Looplet
+Defense Looplet
+Sp. Atk Looplet
+Sp. Def Looplet
+Healing Looplet
+Resilient Looplet
+Focus Looplet
+Nonstick Looplet
+
+Joy Looplet
+
+Persim Looplet
+Pecha Looplet
+Wakeful Looplet
+Warp Looplet
+
+
+Detect Looplet
+Deflect Looplet
+Weather Looplet
+Choice Looplet
+Fickle Looplet
+Lucky Looplet
+Cover Looplet
+Unity Looplet
+Nullify Looplet
+Explosive Looplet
+Prosper Looplet
+Excavation Looplet
+Alliance Looplet
+Speed Looplet
+Red Looplet
+Blue Looplet
+Satiated Looplet
+Huge Meal Looplet
+Big Belly Looplet
+Well-Fed Looplet
+Ancient Crown
+Food Fighter Crown
+Treasure Crown
+Golden Crown
+Grass Looplet
+Completion Crown
+Wind Looplet
+Earth Looplet
+Sea Looplet
+
+Apple
+Apple
+
+Big Apple
+Big Apple
+
+Grimy Food
+Perfect Apple
+Golden Apple
+
+
+Heal Seed
+Oran Berry
+Eyedrop Seed
+Tiny Reviver Seed
+Blinker Seed
+Doom Seed
+Rawst Berry
+Quick Seed
+Pecha Berry
+Cheri Berry
+Totter Seed
+Sleep Seed
+Plain Seed
+Warp Seed
+Blast Seed
+Golden Banana
+Chesto Berry
+Stun Seed
+Golden Seed
+Vile Seed
+Pure Seed
+Violent Seed
+Training Seed
+Encourage Seed
+Decoy Seed
+Ban Seed
+Energy Seed
+Reviver Seed
+Soothing Seed
+Joy Seed
+
+Max Elixir
+Elixir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nectar
+
+
+
+
+Sitrus Berry
+Life Seed
+Protein
+Iron
+Calcium
+Zinc
+Power Drink
+Accuracy Drink
+PP-Up Drink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mega Donut
+
+
+Sweet Chocolate
+
+
+Four-Leaf Cookie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Carbos
+
+
+Escape Orb
+Hail Orb
+Sunny Orb
+Rainy Orb
+Sandy Orb
+Evasion Orb
+See-Trap Orb
+Trapbust Orb
+
+
+
+Slow Orb
+Quick Orb
+Luminous Orb
+Petrify Orb
+
+
+Trawl Orb
+Cleanse Orb
+Slumber Orb
+Totter Orb
+
+Scanner Orb
+Radar Orb
+Rollcall Orb
+One-Shot Orb
+Mobile Orb
+
+Pierce Orb
+Spurn Orb
+Foe-Hold Orb
+Foe-Fear Orb
+Foe-Seal Orb
+Health Orb
+Nullify Orb
+
+All Power-Up Orb
+All Dodge Orb
+All Protect Orb
+
+Decoy Orb
+Deposit Orb
+Enemy Evolve Orb
+Devolve Orb
+Monster Orb
+
+Enemy Discord Orb
+Apathy Orb
+Emera-Up Orb
+Lasso Orb
+Revive All Orb
+
+
+
+
+
+
+
+
+
+
+Switcher Wand
+
+Whirlwind Wand
+Stayaway Wand
+Pounce Wand
+
+Warp Wand
+
+Surround Wand
+Blast Wand
+Quarter Wand
+Two-Edged Wand
+HP-Swap Wand
+Slumber Wand
+Confuse Wand
+Petrify Wand
+Slow Wand
+Truant Wand
+Tunnel Wand
+Guiding Wand
+
+
+
+
+
+
+
+
+
+
+Djinn's Bottle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power Boost X
+Power Boost Y
+Guard Boost
+Type Bulldozer
+Distance Dodge
+Prolong
+Follow-Through
+Better Odds
+Alliance Expert
+Barrage
+Excessive Force
+Super Critical
+Comeback
+Targeted Attack
+Effect Boost
+Petrify Power
+Dizzying Stare
+Lullaby
+Barrage Guard
+Dizzying Payback
+Sleep Payback
+Warp Payback
+Payback
+Status Mirror
+Tight Grip
+Anchor
+Explosion Guard
+Misfortune Mirror
+Intimidator
+Clutch Performer
+Toughness
+Status Immunity
+Poison Guard
+Burn Guard
+Paralysis Guard
+Sleep Guard
+Confusion Guard
+Resilient
+Lucky Charm
+Trap Proof
+Clairvoyance
+Big Ears
+Piercing Throw
+Berry Power
+Wand Expert
+Go for Broke
+Self-Control
+Big Recovery
+Huge Meal
+Satiated
+Elixir Search
+Emera Search
+Tunnel
+Stair Locator
+Treasure Hunter
+Item Checker
+PP Restore
+Tiptoe
+Room Checker
+Training
+Additional Action
+Whirlwind
+Ally Reviver
+Sun's Blessing
+Rain's Blessing
+Second Chance
+Mobility
+Surveyor
+All-Knowing
+Natural Recovery
+Absorption
+Awakening
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lucha Token
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Progress Device
+Progress Device +
+
+
+
+
+
+
+
+
+Poké
+Gold Bar
+
+
+Gorgeous Box
+Gorgeous Box
+Gorgeous Box
+Heavy Box
+Heavy Box
+Heavy Box
+Shiny Box
+Shiny Box
+Shiny Box
+Nifty Box
+Nifty Box
+Nifty Box
+Dainty Box
+Dainty Box
+Dainty Box
+Glittery Box
+Glittery Box
+Glittery Box
+Pretty Box
+Pretty Box
+Pretty Box
+Light Box
+Light Box
+Light Box
+Cute Box
+Cute Box
+Cute Box
+Hard Box
+Hard Box
+Hard Box
+Sinister Box
+Sinister Box
+Sinister Box
+Deluxe Box
+Deluxe Box
+Deluxe Box
+Hone Claws
+Dragon Claw
+Psyshock
+Calm Mind
+Roar
+Toxic
+Hail
+Bulk Up
+Venoshock
+Hidden Power
+Sunny Day
+Taunt
+Ice Beam
+Blizzard
+Hyper Beam
+Light Screen
+Protect
+Rain Dance
+Roost
+Safeguard
+Frustration
+Solar Beam
+Smack Down
+Thunderbolt
+Thunder
+Earthquake
+Return
+Dig
+Psychic
+Shadow Ball
+Brick Break
+Double Team
+Reflect
+Sludge Wave
+Flamethrower
+Sludge Bomb
+Sandstorm
+Fire Blast
+Rock Tomb
+Aerial Ace
+Torment
+Facade
+Flame Charge
+Rest
+Attract
+Thief
+Low Sweep
+Round
+Echoed Voice
+Overheat
+Steel Wing
+Focus Blast
+Energy Ball
+False Swipe
+Scald
+Fling
+Charge Beam
+Sky Drop
+Incinerate
+Will-O-Wisp
+Acrobatics
+Embargo
+Explosion
+Shadow Claw
+Payback
+Retaliate
+Giga Impact
+Rock Polish
+Flash
+Stone Edge
+Volt Switch
+Thunder Wave
+Gyro Ball
+Swords Dance
+Struggle Bug
+Psych Up
+Bulldoze
+Frost Breath
+Rock Slide
+X-Scissor
+Dragon Tail
+Infestation
+Poison Jab
+Dream Eater
+Grass Knot
+Swagger
+Sleep Talk
+U-turn
+Substitute
+Flash Cannon
+Trick Room
+Wild Charge
+Rock Smash
+Snarl
+Nature Power
+Dark Pulse
+Power-Up Punch
+Dazzling Gleam
+Confide
+Cut
+Fly
+Surf
+Strength
+Waterfall
+
+
+
+
+
+
+
+
+Quash
+Secret Power
+Dive
+
+
+
+
+
+
+
+
+
+
+
+
+Hone Claws
+Dragon Claw
+Psyshock
+Calm Mind
+Roar
+Toxic
+Hail
+Bulk Up
+Venoshock
+Hidden Power
+Sunny Day
+Taunt
+Ice Beam
+Blizzard
+Hyper Beam
+Light Screen
+Protect
+Rain Dance
+Roost
+Safeguard
+Frustration
+Solar Beam
+Smack Down
+Thunderbolt
+Thunder
+Earthquake
+Return
+Dig
+Psychic
+Shadow Ball
+Brick Break
+Double Team
+Reflect
+Sludge Wave
+Flamethrower
+Sludge Bomb
+Sandstorm
+Fire Blast
+Rock Tomb
+Aerial Ace
+Torment
+Facade
+Flame Charge
+Rest
+Attract
+Thief
+Low Sweep
+Round
+Echoed Voice
+Overheat
+Steel Wing
+Focus Blast
+Energy Ball
+False Swipe
+Scald
+Fling
+Charge Beam
+Sky Drop
+Incinerate
+Will-O-Wisp
+Acrobatics
+Embargo
+Explosion
+Shadow Claw
+Payback
+Retaliate
+Giga Impact
+Rock Polish
+Flash
+Stone Edge
+Volt Switch
+Thunder Wave
+Gyro Ball
+Swords Dance
+Struggle Bug
+Psych Up
+Bulldoze
+Frost Breath
+Rock Slide
+X-Scissor
+Dragon Tail
+Infestation
+Poison Jab
+Dream Eater
+Grass Knot
+Swagger
+Sleep Talk
+U-turn
+Substitute
+Flash Cannon
+Trick Room
+Wild Charge
+Rock Smash
+Snarl
+Nature Power
+Dark Pulse
+Power-Up Punch
+Dazzling Gleam
+Confide
+Cut
+Fly
+Surf
+Strength
+Waterfall
+
+
+
+
+
+
+
+
+Quash
+Secret Power
+Dive
+
+
+
+
+
+
+
+
+
+
+
+
+Mud Trap
+Sticky Trap
+Summon Trap
+
+Warp Trap
+Gust Trap
+Spin Trap
+Slumber Trap
+Slow Trap
+Seal Trap
+Poison Trap
+Blast Trap
+Big Blast Trap
+PP Leech Trap
+Spiky Trap
+Wonder Tile
+Pokémon Trap
+Spikes
+Stealth Rock
+Toxic Spikes
+Hunger Trap
+Trip Trap
+Random Trap
+Grudge Trap
+Training Switch
+Sparkling Floor
+Gold Floor
+Grimy Trap
+Emera-Crush Trap
+Emera-Swap Trap
+Apple Trap
+Discord Trap
+Sparkling Floor
+Stunfisk
+Ditto
+Progress Point
+Progress Point
+Stairs
+Stairs
+Exit
+Rescue Point
+Popular Ribbon
+Trendy Specs
+Famous Seed
+Rumored Orb
+Topical Gift
+Topical Bottle
+Famous Stone
+Mysterious Treasure
+requested item
+Particular Key
+requested item
+Rumored Tag
+Premium Apple
+requested item
+Particular Box
+requested item
+requested item
+requested item
+requested item
+requested item
