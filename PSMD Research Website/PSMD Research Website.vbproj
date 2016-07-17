@@ -48,6 +48,10 @@
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DSPatcher, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DSPatcher.1.0.0-CI00000\lib\net46\DSPatcher.exe</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
       <Private>True</Private>
@@ -108,8 +112,8 @@
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.8.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Orthogonal.NTagLite, Version=2.0.8.0, Culture=neutral, PublicKeyToken=6811f57591873a69, processorArchitecture=MSIL">
@@ -120,24 +124,24 @@
       <HintPath>..\packages\Portable.Text.Encoding.0.8.3.0\lib\portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10\Portable.Text.Encoding.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SkyEditor.Core, Version=1.0.15.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.Core.1.0.15\lib\portable45-net45+win8+wpa81\SkyEditor.Core.dll</HintPath>
+    <Reference Include="SkyEditor.Core, Version=4.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.Core.4.0.4-CI00048\lib\portable45-net45+win8+wpa81\SkyEditor.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SkyEditor.Core.Windows, Version=1.0.15.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.Core.Windows.1.0.15\lib\net46\SkyEditor.Core.Windows.dll</HintPath>
+    <Reference Include="SkyEditor.Core.Windows, Version=4.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.Core.Windows.4.0.4-CI00048\lib\net46\SkyEditor.Core.Windows.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SkyEditor.ROMEditor, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.ROMEditor.1.0.3\lib\portable45-net45+win8\SkyEditor.ROMEditor.dll</HintPath>
+    <Reference Include="SkyEditor.ROMEditor, Version=4.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.ROMEditor.4.0.4-CI00000\lib\portable45-net45+win8\SkyEditor.ROMEditor.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SkyEditor.ROMEditor.Windows, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.ROMEditor.Windows.1.0.3\lib\net46\SkyEditor.ROMEditor.Windows.dll</HintPath>
+    <Reference Include="SkyEditor.ROMEditor.Windows, Version=4.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.ROMEditor.Windows.4.0.4-CI00000\lib\net46\SkyEditor.ROMEditor.Windows.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SkyEditor.SaveEditor, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.SaveEditor.1.0.0\lib\portable45-net45+win8\SkyEditor.SaveEditor.dll</HintPath>
+    <Reference Include="SkyEditor.SaveEditor, Version=4.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.SaveEditor.4.0.3\lib\portable45-net45+win8\SkyEditor.SaveEditor.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
@@ -309,38 +313,14 @@
     </None>
     <Content Include="Resources\ctrtool.exe" />
     <Content Include="Resources\ffmpeg.exe" />
+    <Content Include="Resources\ppmd_pxcomp.exe" />
+    <Content Include="Resources\ppmd_unpx.exe" />
     <Content Include="Resources\PSMD Pokemon Name Hashes.txt" />
-    <Content Include="ROMEditor\3DS Builder.exe" />
-    <Content Include="ROMEditor\dsicontool.exe" />
-    <Content Include="ROMEditor\facenames.txt" />
-    <Content Include="ROMEditor\lua\bin2c5.1.exe" />
-    <Content Include="ROMEditor\lua\lua5.1.dll" />
-    <Content Include="ROMEditor\lua\lua5.1.exe" />
-    <Content Include="ROMEditor\lua\lua51.dll" />
-    <Content Include="ROMEditor\lua\luac5.1.exe" />
-    <Content Include="ROMEditor\lua\Microsoft.VC80.CRT\Microsoft.VC80.CRT.manifest" />
     <Content Include="PSMD Research Website.nuspec" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="mlist.txt" />
     <Content Include="plist.txt" />
     <Content Include="ilist.txt" />
-    <Content Include="ROMEditor\lua\Microsoft.VC80.CRT\msvcm80.dll" />
-    <Content Include="ROMEditor\lua\Microsoft.VC80.CRT\msvcp80.dll" />
-    <Content Include="ROMEditor\lua\Microsoft.VC80.CRT\msvcr80.dll" />
-    <Content Include="ROMEditor\lua\wlua5.1.exe" />
-    <Content Include="ROMEditor\makerom.exe" />
-    <Content Include="ROMEditor\ndstool.exe" />
-    <Content Include="ROMEditor\pk3DS.exe" />
-    <Content Include="ROMEditor\pokenames.txt" />
-    <Content Include="ROMEditor\ppmd_kaoutil.exe" />
-    <Content Include="ROMEditor\ppmd_kaoutil.txt" />
-    <Content Include="ROMEditor\ppmd_pxcomp.exe" />
-    <Content Include="ROMEditor\ppmd_unpx.exe" />
-    <Content Include="ROMEditor\PSMD English Soundtrack.txt" />
-    <Content Include="ROMEditor\PSMD Pokemon Name Hashes.txt" />
-    <Content Include="ROMEditor\rom_tool.exe" />
-    <Content Include="ROMEditor\unluac.jar" />
-    <Content Include="ROMEditor\xdelta\xdelta3.exe" />
     <Content Include="Scripts\ai.0.15.0-build58334.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
