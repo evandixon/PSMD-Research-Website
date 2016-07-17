@@ -4,7 +4,7 @@ Imports SkyEditor.ROMEditor.Windows.FileFormats.PSMD
 
 Public Module PkmDataInit
     Public Sub InitializeMissingData()
-        Dim dirName = Web.HttpContext.Current.Server.MapPath("~/PSMD-RawFiles")
+        Dim dirName = Web.HttpContext.Current.Server.MapPath(ConfigurationManager.AppSettings("PSMDRawFilesDir"))
         If IO.Directory.Exists(dirName) Then
             Dim context As New DataContext
             'Open the game files
