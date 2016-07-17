@@ -319,6 +319,7 @@
     <Content Include="ROMEditor\lua\lua51.dll" />
     <Content Include="ROMEditor\lua\luac5.1.exe" />
     <Content Include="ROMEditor\lua\Microsoft.VC80.CRT\Microsoft.VC80.CRT.manifest" />
+    <Content Include="PSMD Research Website.nuspec" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="mlist.txt" />
     <Content Include="plist.txt" />

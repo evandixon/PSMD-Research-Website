@@ -8,7 +8,7 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 <Assembly: AssemblyTitle("PSMD_Research_Website")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyDescription("Website for use with PSMD ROM research")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("PSMD_Research_Website")>
 <Assembly: AssemblyCopyright("Copyright ©  2016")>
