@@ -48,8 +48,8 @@
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DSPatcher, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\DSPatcher.1.0.0-CI00000\lib\net46\DSPatcher.exe</HintPath>
+    <Reference Include="DSPatcher, Version=1.0.0.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\DS-ROM-Patcher.1.0.0-CI5\lib\net46\DSPatcher.exe</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
@@ -78,6 +78,14 @@
     </Reference>
     <Reference Include="Id3.Files, Version=0.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\ID3.Files.0.3.0\lib\net40\Id3.Files.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LanguageStringPatcher, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\LanguageStringPatcher.1.0.0\lib\net46\LanguageStringPatcher.exe</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MessageFARCPatcher, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Message-FARC-Patcher.1.0.0\lib\net452\MessageFARCPatcher.exe</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.AI.Agent.Intercept, Version=1.2.0.1011, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
@@ -124,24 +132,28 @@
       <HintPath>..\packages\Portable.Text.Encoding.0.8.3.0\lib\portable-net45+win+wp80+MonoAndroid10+xamarinios10+MonoTouch10\Portable.Text.Encoding.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SkyEditor.Core, Version=4.0.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.Core.4.0.4-CI00048\lib\portable45-net45+win8+wpa81\SkyEditor.Core.dll</HintPath>
+    <Reference Include="SkyEditor.CodeEditor, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.CodeEditor.4.0.4-CI6\lib\net46\SkyEditor.CodeEditor.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SkyEditor.Core.Windows, Version=4.0.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.Core.Windows.4.0.4-CI00048\lib\net46\SkyEditor.Core.Windows.dll</HintPath>
+    <Reference Include="SkyEditor.Core, Version=4.0.6.84, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.Core.4.0.6-CI84\lib\portable45-net45+win8+wpa81\SkyEditor.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="SkyEditor.Core.Windows, Version=4.0.6.84, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.Core.Windows.4.0.6-CI84\lib\net46\SkyEditor.Core.Windows.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="SkyEditor.ROMEditor, Version=4.0.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.ROMEditor.4.0.4-CI00000\lib\portable45-net45+win8\SkyEditor.ROMEditor.dll</HintPath>
+      <HintPath>..\packages\SkyEditor.ROMEditor.4.0.4-CI00003\lib\portable45-net45+win8\SkyEditor.ROMEditor.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SkyEditor.ROMEditor.Windows, Version=4.0.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.ROMEditor.Windows.4.0.4-CI00000\lib\net46\SkyEditor.ROMEditor.Windows.dll</HintPath>
+    <Reference Include="SkyEditor.ROMEditor.Windows, Version=4.0.6.8, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.ROMEditor.Windows.4.0.6-CI8\lib\net46\SkyEditor.ROMEditor.Windows.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="SkyEditor.SaveEditor, Version=4.0.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\SkyEditor.SaveEditor.4.0.3\lib\portable45-net45+win8\SkyEditor.SaveEditor.dll</HintPath>
+    <Reference Include="SkyEditor.SaveEditor, Version=4.0.5.12, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\SkyEditor.SaveEditor.4.0.5\lib\portable45-net45+win8\SkyEditor.SaveEditor.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
@@ -208,6 +220,10 @@
     <Reference Include="Antlr3.Runtime">
       <Private>True</Private>
       <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Zlib.Portable, Version=1.11.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Zlib.Portable.1.11.0\lib\portable-net4+sl5+wp8+win8+wpa81+MonoTouch+MonoAndroid\Zlib.Portable.dll</HintPath>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -311,21 +327,45 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-    <Content Include="Resources\ctrtool.exe" />
-    <Content Include="Resources\ffmpeg.exe" />
-    <Content Include="Resources\ppmd_pxcomp.exe" />
-    <Content Include="Resources\ppmd_unpx.exe" />
-    <Content Include="Resources\PSMD Pokemon Name Hashes.txt" />
     <Content Include="PSMD Research Website.nuspec" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="mlist.txt" />
     <Content Include="plist.txt" />
     <Content Include="ilist.txt" />
+    <Content Include="Resources\ctrtool.exe" />
+    <Content Include="Resources\ffmpeg.exe" />
+    <Content Include="Resources\ppmd_pxcomp.exe" />
+    <Content Include="Resources\ppmd_unpx.exe" />
+    <Content Include="Resources\PSMD Pokemon Name Hashes.txt" />
+    <Content Include="Resources\PSMDStarterIntroScript.txt" />
     <Content Include="Scripts\ai.0.15.0-build58334.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="SkyEditor.ROMEditor.Windows\3DS Builder.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\dsicontool.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\facenames.txt" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\bin2c5.1.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\lua5.1.dll" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\lua5.1.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\lua51.dll" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\luac5.1.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\Microsoft.VC80.CRT\msvcm80.dll" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\Microsoft.VC80.CRT\msvcp80.dll" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\Microsoft.VC80.CRT\msvcr80.dll" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\wlua5.1.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\makerom.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\MessageFARCPatcher.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\ndstool.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\pk3DS.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\pokenames.txt" />
+    <Content Include="SkyEditor.ROMEditor.Windows\ppmd_kaoutil.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\ppmd_kaoutil.txt" />
+    <Content Include="SkyEditor.ROMEditor.Windows\PSMD English Soundtrack.txt" />
+    <Content Include="SkyEditor.ROMEditor.Windows\rom_tool.exe" />
+    <Content Include="SkyEditor.ROMEditor.Windows\unluac.jar" />
+    <Content Include="SkyEditor.ROMEditor.Windows\xdelta\xdelta3.exe" />
     <Content Include="tlist.txt" />
     <Content Include="Views\Pokemon\Details.vbhtml" />
     <Content Include="Views\Pokemon\Index.vbhtml" />
@@ -337,6 +377,7 @@
     <Content Include="Views\Types\Index.vbhtml" />
     <Content Include="Views\Shared\_BasicPokemonTable.vbhtml" />
     <Content Include="Views\Shared\_BasicMovesTable.vbhtml" />
+    <Content Include="SkyEditor.ROMEditor.Windows\lua\Microsoft.VC80.CRT\Microsoft.VC80.CRT.manifest" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
